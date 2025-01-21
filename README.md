@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 DNA Sequence Analyzer
 
 A simple Streamlit app template for you to modify!
 
